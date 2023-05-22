@@ -1,0 +1,13 @@
+g++
+%hpp %cpp 
+-std=c++17
+
+-Iinclude/Engine
+-Iinclude/microcontroller
+-Iinclude/microcontroller/8085
+-Iinclude/microcontroller/IO
+-Iinclude/microcontroller/memory
+-Iinclude/microcontroller/bus
+
+-Ilib/imgui
+-Ilib/imgui/backends

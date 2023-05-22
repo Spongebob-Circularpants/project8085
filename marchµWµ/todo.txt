@@ -1,0 +1,4 @@
+Complete a primitive mockup of the UI
+change the window styles
+dma input is not upto my taste, fix it
+
